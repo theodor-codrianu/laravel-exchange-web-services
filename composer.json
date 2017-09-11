@@ -13,8 +13,8 @@
     	"php": ">=5.4.0",
         "fuitad/exchange-web-services-for-php": "2.0.*",
         "graham-campbell/manager": "^2.0",
-        "illuminate/contracts": "5.1.* || 5.2.*",
-        "illuminate/support": "5.1.* || 5.2.*"
+        "illuminate/contracts": "5.1.* || 5.2.* || 5.3.* || 5.4.*",
+        "illuminate/support": "5.1.* || 5.2.* || 5.3.* || 5.4.*"
     },
     "require-dev": {
         "graham-campbell/testbench": "^3.1",
